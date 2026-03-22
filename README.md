@@ -6,5 +6,3 @@ Included files:
 
 - `chapter6_lecture_notes.pdf`: compiled lecture handout
 - `figures/`: figure assets used to generate the handout
-
-The TeX source is intentionally not tracked in this repository.
